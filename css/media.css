@@ -1,0 +1,215 @@
+@media(max-width:991px){
+    .collapse {
+        background: #2cb573;
+        color: rgb(255, 255, 255);
+        transform: none;
+    }
+    .hdr-top {
+        transform: none;
+    }
+    .navbar-nav {
+        text-align: center;
+    }
+    .nav-link {
+        transform: none;
+        display: inline-block;
+        padding: 5px 10px;
+        margin-top: 5px;
+    }
+    .time {
+        display: none;
+    }
+    
+    .row {
+        margin-right: 0;
+        margin-left:0;
+    }
+    .lctn h5 {
+        font-size: 14px;
+    }
+    .hdr-top ul li i {
+        padding: 5px;
+    }
+    .nmbr h5 {
+        font-size: 14px;
+    }
+    .bannre-cntnt p {
+        font-size: 19px;
+    }
+    .bannre-cntnt h1 {
+        font-size: 48px;
+        line-height: 50px;
+    }
+    .about-img img {
+        max-width: 26%;
+        bottom: 299px;
+        right: 200px;
+    }
+    .sponsore {
+        padding: 50px 0;
+    }
+    .dnt h3 {
+        font-size: 19px;
+    }
+    
+    .dnt h1 {
+        font-size: 28px;
+    }
+    .dnt p {
+        font-size: 16px;
+    }
+    .about-btn {
+        font-size: 11px;
+        padding: 8px 15px;
+    }
+    .isl-cnt {
+        height:auto;
+    }
+  
+}
+
+@media(max-width:767px){
+    
+    .isl-cnt {
+        height: 308px;
+    }
+    .about-img img {
+        max-width: 43%;
+        bottom: 127px;
+        right: 215px;
+    }
+}
+
+@media(max-width:575px){
+.about-img img {
+    max-width: 67%;
+    bottom: 131px;
+    right: 98px;
+}
+}
+
+
+@media(max-width:375px){
+    .banner {
+        padding: 20px;
+    }
+    .bnner-img {
+        text-align: center;
+    }
+    .bnner-img img {
+        width: 50%;
+    }
+    .bannre-cntnt h1 {
+        font-size: 30px;
+        line-height: 45px;
+    }
+    .bannre-cntnt p {
+        font-size: 20px;
+        margin: 15px 0;
+    }
+    .bnnr-btn {
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+    
+    .about h4 {
+        font-size: 18px;
+    }
+    .about h1 {
+        font-size: 30px;
+    }
+    .about h5 {
+        font-size: 17px;
+    }
+    .about p {
+        font-size: 15px;
+    }
+    .about-btn {
+        padding: 10px 20px;
+        font-size: 12px;
+    }
+    .about {
+        padding: 45px 0;
+    }
+    .about-img img {
+        bottom: 64px;
+        width: 61%;
+        right: 72px;
+    }
+    .bg {
+        margin-top: 30px;
+    }
+    .sponsore {
+        padding: 45px 0;
+    }
+    .spnsr {
+        margin-top: 30px;
+        border-bottom: 1px solid #9999;
+    }
+    .services {
+        padding: 40px 0;
+    }
+    .sr-hdr h1 {
+        font-size: 23px;
+    }
+    .sr-hdr h3 {
+        font-size: 18px;
+    }
+    .urg h5 {
+        font-size: 18px;
+    }
+    .urg h2 {
+        font-size: 28px;
+    }
+    .compaign {
+        padding: 50px 0;
+    }
+    .ramadan h5 {
+        font-size: 11px;
+    }
+    .ramadan h4 {
+        font-size: 13px;
+    }
+    .pill-item {
+        margin-bottom: 15px ! important;
+    }
+    .dsn-pr {
+        margin-top: 25px;
+        height: 130px;
+        width: 130px;
+    }
+    .dsn-pr h3 {
+        bottom: 34px;
+        font-size: 13px;
+    }
+    .dsn-pr i {
+        height: 30px;
+        width: 30px;
+        border: 2px solid;
+    }
+    .prpht-cnt {
+        margin-top: 20px;
+    }
+    .prpht-cnt h2 {
+        font-size: 14px;
+        line-height: 23px;
+    }
+    .prpht-cnt h4 {
+        font-size: 20px;
+    }
+    ul#example {
+        text-align: center;
+    }
+    .cntct-item {
+        padding: 7px;
+    }
+    .cntct-item i {
+        font-size: 20px;
+    }
+    .cntct-item h6 {
+        font-size: 12px;
+    }
+    .msg-btn {
+        padding: 10px 25px;
+    }
+}
